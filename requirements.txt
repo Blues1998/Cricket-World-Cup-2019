@@ -1,0 +1,6 @@
+pandas
+matplotlib
+jupyter
+# Required for pandas to read the .xlsx match data — without it every
+# read_excel call raises ImportError.
+openpyxl
